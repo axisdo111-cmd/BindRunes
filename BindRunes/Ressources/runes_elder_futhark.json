@@ -1,0 +1,47 @@
+#  Runes Elder Futhark
+
+{
+  "version": "1.0",
+  "system": "Elder Futhark",
+  "aetts": [
+    {
+      "name": "Freyr Aett",
+      "runes": [
+        {"key":"fehu","glyph":"ᚠ","name":"Fehu","sound":"f","keywords":["richesse","ressources","flux","valeur","départ"]},
+        {"key":"uruz","glyph":"ᚢ","name":"Uruz","sound":"u","keywords":["force","vitalité","endurance","transformation"]},
+        {"key":"thurisaz","glyph":"ᚦ","name":"Thurisaz","sound":"th","keywords":["protection","seuil","défi","choc","défense"]},
+        {"key":"ansuz","glyph":"ᚨ","name":"Ansuz","sound":"a","keywords":["communication","inspiration","parole","conseil","savoir"]},
+        {"key":"raidho","glyph":"ᚱ","name":"Raidho","sound":"r","keywords":["chemin","voyage","ordre","rythme","justesse"]},
+        {"key":"kenaz","glyph":"ᚲ","name":"Kenaz","sound":"k","keywords":["feu","création","clarté","révélation","talent"]},
+        {"key":"gebo","glyph":"ᚷ","name":"Gebo","sound":"g","keywords":["don","échange","pacte","équilibre","partenariat"]},
+        {"key":"wunjo","glyph":"ᚹ","name":"Wunjo","sound":"w/v","keywords":["joie","harmonie","bien-être","cohésion","réussite douce"]}
+      ]
+    },
+    {
+      "name": "Heimdall Aett",
+      "runes": [
+        {"key":"hagalaz","glyph":"ᚺ","name":"Hagalaz","sound":"h","keywords":["rupture","grêle","crise","nettoyage","réinitialisation"]},
+        {"key":"nauthiz","glyph":"ᚾ","name":"Nauthiz","sound":"n","keywords":["besoin","contrainte","discipline","résilience","manque"]},
+        {"key":"isa","glyph":"ᛁ","name":"Isa","sound":"i","keywords":["glace","pause","blocage","concentration","stabilité"]},
+        {"key":"jera","glyph":"ᛃ","name":"Jera","sound":"y/j","keywords":["cycle","récolte","temps","résultat","progression"]},
+        {"key":"eihwaz","glyph":"ᛇ","name":"Eihwaz","sound":"ei","keywords":["axe","mort/renaissance","endurance","protection profonde"]},
+        {"key":"perthro","glyph":"ᛈ","name":"Perthro","sound":"p","keywords":["hasard","destin","mystère","jeu","potentialité"]},
+        {"key":"algiz","glyph":"ᛉ","name":"Algiz","sound":"z/ʀ","keywords":["protection","gardien","intuition","sanctuaire","alerte"]},
+        {"key":"sowilo","glyph":"ᛊ","name":"Sowilo","sound":"s","keywords":["soleil","victoire","énergie","succès","clarification"]}
+      ]
+    },
+    {
+      "name": "Tyr Aett",
+      "runes": [
+        {"key":"tiwaz","glyph":"ᛏ","name":"Tiwaz","sound":"t","keywords":["courage","justice","direction","honneur","volonté"]},
+        {"key":"berkano","glyph":"ᛒ","name":"Berkano","sound":"b","keywords":["naissance","croissance","soin","renouveau","fécondité"]},
+        {"key":"ehwaz","glyph":"ᛖ","name":"Ehwaz","sound":"e","keywords":["mouvement","confiance","coopération","progrès","alignement"]},
+        {"key":"mannaz","glyph":"ᛗ","name":"Mannaz","sound":"m","keywords":["humain","raison","conscience","réseau","société"]},
+        {"key":"laguz","glyph":"ᛚ","name":"Laguz","sound":"l","keywords":["eau","intuition","flux","émotions","adaptation"]},
+        {"key":"ingwaz","glyph":"ᛜ","name":"Ingwaz","sound":"ng","keywords":["potentiel","incubation","paix","achèvement interne"]},
+        {"key":"dagaz","glyph":"ᛞ","name":"Dagaz","sound":"d","keywords":["aube","bascule","éveil","clarté","transformation positive"]},
+        {"key":"othala","glyph":"ᛟ","name":"Othala","sound":"o","keywords":["héritage","patrimoine","foyer","limites","sécurité"]}
+      ]
+    }
+  ]
+}
